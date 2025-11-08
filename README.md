@@ -43,11 +43,12 @@ This repository contains a collection of papers and resources on **security and 
 | 2025 | arXiv                                    | Spoofing     | [RIS-Aided Positioning Under Adverse Conditions: Interference from Unauthorized RIS](https://arxiv.org/pdf/2502.19928) | 
 | 2025 | IEEE CSCN 2025                           | Spoofing     | [MALRIS: Malicious Hardware in RIS-Assisted Wireless Communications](https://arxiv.org/pdf/2508.06340) | 
 | 2024 | Remote Sensing                           | Spoofing & Jamming| [A broadband information metasurface-assisted target jamming system for synthetic aperture radar](https://www.mdpi.com/2072-4292/16/9/1499) | 
-| 2022 | IEEE ISIT 2022                           | Denial-of-Service| [Controller manipulation attack on reconfigurable intelligent surface aided wireless communication](https://ieeexplore-ieee-org.eres.library.manoa.hawaii.edu/abstract/document/9834681) | 
+| 2022 | IEEE ISIT 2022                           | Denial-of-Service| [Controller manipulation attack on reconfigurable intelligent surface aided wireless communication](https://ieeexplore.ieee.org/abstract/document/9834681) | 
 
 ## RIS for Attack
 | Year | Publication                              | Attack Type  | Paper                                                        |
 | ---- | ---------------------------------------- | ------------ | ------------------------------------------------------------ |
+| 2023 | IEEE Transactions on Wireless Communications | Jamming  | [Disco intelligent reflecting surfaces: Active channel aging for fully-passive jamming attack](https://arxiv.org/pdf/2302.00415) |
 | 2025 | NDSS 2025                                | Jamming      | [Spatial-domain wireless jamming with reconfigurable intelligent surfaces](https://www.ndss-symposium.org/wp-content/uploads/2025-440-paper.pdf) |
 | 2022 | WiSec '22                                | Eavesdropping| [Metasurface-in-the-Middle Attack: From Theory to Experiment](https://par.nsf.gov/servlets/purl/10338626) | 
 | 2022 | HotMobile '22                            | Eavesdropping| [Malicious mmWave reconfigurable surface: Eavesdropping through harmonic steering](https://dl.acm.org/doi/pdf/10.1145/3508396.3512879) | 
@@ -65,15 +66,22 @@ This repository contains a collection of papers and resources on **security and 
 ## Defending RIS-related attacks
 | Year | Publication                              | Threat Type  | Paper                                                        |
 | ---- | ---------------------------------------- | ------------ | ------------------------------------------------------------ |
-| 2020 | IEEE Wireless Communications Letters     | Jamming      | [IRS-based wireless jamming attacks: When jammers can attack without power](https://arxiv.org/pdf/2001.01887) |
-| 2022 | ASIA CCS '22                             | Jamming      | [Mirror, mirror on the wall: Wireless environment reconfiguration attacks based on fast software-controlled surfaces](https://dl.acm.org/doi/pdf/10.1145/3488932.3497767) |
-| 2025 | NDSS 2025                                | Jamming      | [Spatial-domain wireless jamming with reconfigurable intelligent surfaces](https://www.ndss-symposium.org/wp-content/uploads/2025-440-paper.pdf) |
-| 2022 | HotMobile '22                            | Eavesdropping| [Malicious mmWave reconfigurable surface: Eavesdropping through harmonic steering](https://dl.acm.org/doi/pdf/10.1145/3508396.3512879) | 
-| 2023 | WiSec '23                                | Eavesdropping| [Wavefront manipulation attack via programmable mmWave metasurfaces: from theory to experiments](https://dl.acm.org/doi/pdf/10.1145/3558482.3590182) | 
-| 2025 | arXiv                                    | Spoofing     | [RIS-Aided Positioning Under Adverse Conditions: Interference from Unauthorized RIS](https://arxiv.org/pdf/2502.19928) | 
-| 2025 | IEEE CSCN 2025                           | Spoofing     | [MALRIS: Malicious Hardware in RIS-Assisted Wireless Communications](https://arxiv.org/pdf/2508.06340) | 
-| 2024 | Remote Sensing                           | Spoofing & Jamming| [A broadband information metasurface-assisted target jamming system for synthetic aperture radar](https://www.mdpi.com/2072-4292/16/9/1499) | 
-| 2022 | IEEE ISIT 2022                           | Denial-of-Service| [Controller manipulation attack on reconfigurable intelligent surface aided wireless communication](https://ieeexplore-ieee-org.eres.library.manoa.hawaii.edu/abstract/document/9834681) | 
+| 2022 | IEEE Access                              | Jamming      | [Anti-jamming RIS communications using DQN-based algorithm](https://ieeexplore.ieee.org/iel7/6287639/9668973/09732955.pdf) |
+| 2023 | GLOBECOM 2023                            | Jamming      | [An anti-jamming strategy for disco intelligent reflecting surfaces based fully-passive jamming attacks](https://arxiv.org/pdf/2307.03629) |
+| 2023 | Electronics                              | Jamming & Eavesdropping| RIS-assisted robust beamforming for UAV anti-jamming and eavesdropping communications: A deep reinforcement learning approach](https://www.mdpi.com/2079-9292/12/21/4490) |
+| 2025 | arXiv                                    | Eavesdropping| [Hiding in Plain Sight: RIS-Aided Target Obfuscation in ISAC](https://arxiv.org/pdf/2001.01887) |
+| 2022 | IEEE Transactions on Vehicular Technology| Eavesdropping| [Reconfigurable intelligent surface-assisted secure mobile edge computing networks](https://ieeexplore.ieee.org/abstract/document/9741383/) | 
+| 2022 | IEEE Wireless Communications             | Eavesdropping| [Secure beamforming for IRS-enhanced NOMA networks](https://discovery.ucl.ac.uk/id/eprint/10153220/1/IRS_NOMA.pdf) | 
+| 2024 | Sensors                                  | Eavesdropping| [An Underwater source location privacy protection scheme based on game theory in a multi-attacker cooperation scenario](https://www.mdpi.com/1424-8220/24/9/2851) | 
+| 2024 | Photonics                                | Eavesdropping| [Reconfigurable Intelligent Surface-Aided Security Enhancement for Vehicle-to-Vehicle Visible Light Communications](https://search.proquest.com/openview/5e81221c0172c992adcdde1cc4b31b8a/1?pq-origsite=gscholar&cbl=2032352) | 
+| 2022 | The Journal of Supercomputing            | Eavesdropping| [Security performance analysis of RIS-assisted UAV wireless communication in industrial IoT](https://dl.acm.org/doi/abs/10.1007/s11227-021-04095-7) | 
+| 2024 | Photonics                                | Eavesdropping| [Reconfigurable Intelligent Surface-Aided Security Enhancement for Vehicle-to-Vehicle Visible Light Communications](https://search.proquest.com/openview/5e81221c0172c992adcdde1cc4b31b8a/1?pq-origsite=gscholar&cbl=2032352) | 
+| 2022 | ICC 2022                                 | Eavesdropping| [Robust design for STAR-RIS secured Internet of Medical Things](https://discovery.ucl.ac.uk/id/eprint/10153132/1/ICC22-m88403-wang%20final.pdf) |
+| 2024 | IEEE Transactions on Communications      | Eavesdropping| [Security Enhancement for RIS-Aided MEC Systems with Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10707344/) |
+| 2025 | ICNC 2025                                | Eavesdropping| [Secure-IRS: Defending Against Adversarial Physical-Layer Sensing in ISAC System](http://www.conf-icnc.org/2025/papers/p436-chen.pdf) |
+| 2023 | IEEE Transactions on Industrial Informatics| Eavesdropping| [Deep reinforcement learning for RIS-aided secure mobile edge computing in industrial Internet of Things](https://ieeexplore.ieee.org/abstract/document/10186000/) |
+| 2022 | Physical Communication                   | Eavesdropping| [Deep reinforcement learning based IRS-assisted mobile edge computing under physical-layer security](https://www.sciencedirect.com/science/article/pii/S1874490722001732) |
+
 
 ## Early Detection of Unauthorized RIS
 
