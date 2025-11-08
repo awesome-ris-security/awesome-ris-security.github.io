@@ -3,7 +3,7 @@ This repository contains a collection of papers and resources on **security and 
 
 # Table of Contents
 
-# Survey
+# 📃Survey
 ## Application Focus
 | Year | Publication                            | Paper                                                        |
 | ---- | -------------------------------------- | ------------------------------------------------------------ |
@@ -31,7 +31,7 @@ This repository contains a collection of papers and resources on **security and 
 | 2022 | IEEE Signal Processing Magazine| [Reconfigurable intelligent surfaces: A signal processing perspective with wireless applications](https://arxiv.org/pdf/2102.00742) | 
 | 2023 | ETSI                           | [Reconfigurable Intelligent Surfaces (RIS); Communication Models, Channel Models, Channel Estimation and Evaluation Methodology](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/001/01.01.01_60/gr_RIS001v010101p.pdf) |
 
-# Attacks
+# ⚔Attacks
 ## Attacking RIS-assisted Systems
 | Year | Publication                              | Attack Type  | Paper                                                        |
 | ---- | ---------------------------------------- | ------------ | ------------------------------------------------------------ |
@@ -61,7 +61,7 @@ This repository contains a collection of papers and resources on **security and 
 | 2025 | arXiv                                    | Eavesdropping| [Stealthy Voice Eavesdropping with Acoustic Metamaterials: Unraveling a New Privacy Threat](https://arxiv.org/abs/2501.15032) |
 | 2025 | IEEE TIFS                                | Spoofing     | [A Portable and Stealthy Inaudible Voice Attack Based on Acoustic Metamaterials](https://arxiv.org/pdf/2501.15031) |
 
-# Defenses
+# 🛡️Defenses
 ## Defending RIS-related attacks
 | Year | Publication                              | Threat Type  | Paper                                                        |
 | ---- | ---------------------------------------- | ------------ | ------------------------------------------------------------ |
