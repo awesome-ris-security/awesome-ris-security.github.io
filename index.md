@@ -1,3 +1,8 @@
+---
+title: Awesome RIS Security
+layout: default
+---
+
 # Awesome RIS Attacks and Defenses
 This repository contains a collection of papers and resources on **security and privacy** issues related to **reconfigurable intellegent surface (RIS)**.
 
