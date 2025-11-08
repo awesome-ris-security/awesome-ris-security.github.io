@@ -68,7 +68,7 @@ This repository contains a collection of papers and resources on **security and 
 | ---- | ---------------------------------------- | ------------ | ------------------------------------------------------------ |
 | 2022 | IEEE Access                              | Jamming      | [Anti-jamming RIS communications using DQN-based algorithm](https://ieeexplore.ieee.org/iel7/6287639/9668973/09732955.pdf) |
 | 2023 | GLOBECOM 2023                            | Jamming      | [An anti-jamming strategy for disco intelligent reflecting surfaces based fully-passive jamming attacks](https://arxiv.org/pdf/2307.03629) |
-| 2023 | Electronics                              | Jamming & Eavesdropping| RIS-assisted robust beamforming for UAV anti-jamming and eavesdropping communications: A deep reinforcement learning approach](https://www.mdpi.com/2079-9292/12/21/4490) |
+| 2023 | Electronics                              | Jamming & Eavesdropping| [RIS-assisted robust beamforming for UAV anti-jamming and eavesdropping communications: A deep reinforcement learning approach](https://www.mdpi.com/2079-9292/12/21/4490) |
 | 2025 | arXiv                                    | Eavesdropping| [Hiding in Plain Sight: RIS-Aided Target Obfuscation in ISAC](https://arxiv.org/pdf/2001.01887) |
 | 2022 | IEEE Transactions on Vehicular Technology| Eavesdropping| [Reconfigurable intelligent surface-assisted secure mobile edge computing networks](https://ieeexplore.ieee.org/abstract/document/9741383/) | 
 | 2022 | IEEE Wireless Communications             | Eavesdropping| [Secure beamforming for IRS-enhanced NOMA networks](https://discovery.ucl.ac.uk/id/eprint/10153220/1/IRS_NOMA.pdf) | 
