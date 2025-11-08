@@ -63,7 +63,7 @@ This repository contains a collection of papers and resources on **security and 
 | 2025 | IEEE TIFS                                | Spoofing     | [A Portable and Stealthy Inaudible Voice Attack Based on Acoustic Metamaterials](https://arxiv.org/pdf/2501.15031) |
 
 # 🛡️Defenses
-## Defending RIS-related attacks
+## Defending attacks on RIS-assisted systems
 | Year | Publication                              | Threat Type  | Paper                                                        |
 | ---- | ---------------------------------------- | ------------ | ------------------------------------------------------------ |
 | 2022 | IEEE Access                              | Jamming      | [Anti-jamming RIS communications using DQN-based algorithm](https://ieeexplore.ieee.org/iel7/6287639/9668973/09732955.pdf) |
@@ -82,8 +82,9 @@ This repository contains a collection of papers and resources on **security and 
 | 2023 | IEEE Transactions on Industrial Informatics| Eavesdropping| [Deep reinforcement learning for RIS-aided secure mobile edge computing in industrial Internet of Things](https://ieeexplore.ieee.org/abstract/document/10186000/) |
 | 2022 | Physical Communication                   | Eavesdropping| [Deep reinforcement learning based IRS-assisted mobile edge computing under physical-layer security](https://www.sciencedirect.com/science/article/pii/S1874490722001732) |
 
-
-## Early Detection of Unauthorized RIS
+## Defending against RIS for attack
+### Early Detection of Unauthorized RIS
+### System-level Defenses
 
 ## RIS for Defense
 
