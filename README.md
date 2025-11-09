@@ -50,6 +50,7 @@ This repository contains a collection of papers and resources on **security and 
 | ---- | ---------------------------------------- | ------------ | ------------------------------------------------------------ |
 | 2023 | IEEE Transactions on Wireless Communications | Jamming  | [Disco intelligent reflecting surfaces: Active channel aging for fully-passive jamming attack](https://arxiv.org/pdf/2302.00415) |
 | 2025 | NDSS 2025                                | Jamming      | [Spatial-domain wireless jamming with reconfigurable intelligent surfaces](https://www.ndss-symposium.org/wp-content/uploads/2025-440-paper.pdf) |
+| 2020 | IEEE Transactions on Wireless Communications | Eavesdropping| [Intelligent reflecting surface aided pilot contamination attack and its countermeasure](https://arxiv.org/pdf/2009.08512) |
 | 2022 | WiSec '22                                | Eavesdropping| [Metasurface-in-the-Middle Attack: From Theory to Experiment](https://par.nsf.gov/servlets/purl/10338626) | 
 | 2022 | HotMobile '22                            | Eavesdropping| [Malicious mmWave reconfigurable surface: Eavesdropping through harmonic steering](https://dl.acm.org/doi/pdf/10.1145/3508396.3512879) | 
 | 2023 | WiSec '23                                | Eavesdropping| [Wavefront manipulation attack via programmable mmWave metasurfaces: from theory to experiments](https://dl.acm.org/doi/pdf/10.1145/3558482.3590182) | 
@@ -67,6 +68,7 @@ This repository contains a collection of papers and resources on **security and 
 | Year | Publication                              | Threat Type  | Paper                                                        |
 | ---- | ---------------------------------------- | ------------ | ------------------------------------------------------------ |
 | 2022 | IEEE Access                              | Jamming      | [Anti-jamming RIS communications using DQN-based algorithm](https://ieeexplore.ieee.org/iel7/6287639/9668973/09732955.pdf) |
+| 2023 | IEEE Wireless Communications Letters     | Jamming      | [A Countermeasure Against RIS Jamming Attack in Physical-Layer Key Generation](https://ieeexplore.ieee.org/abstract/document/10247269/) |
 | 2023 | GLOBECOM 2023                            | Jamming      | [An anti-jamming strategy for disco intelligent reflecting surfaces based fully-passive jamming attacks](https://arxiv.org/pdf/2307.03629) |
 | 2023 | Electronics                              | Jamming & Eavesdropping| [RIS-assisted robust beamforming for UAV anti-jamming and eavesdropping communications: A deep reinforcement learning approach](https://www.mdpi.com/2079-9292/12/21/4490) |
 | 2025 | arXiv                                    | Eavesdropping| [Hiding in Plain Sight: RIS-Aided Target Obfuscation in ISAC](https://arxiv.org/pdf/2001.01887) |
