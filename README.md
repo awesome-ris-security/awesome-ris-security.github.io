@@ -55,7 +55,7 @@ This repository contains a collection of papers and resources on **security and 
 | 2023 | WiSec '23                                | Eavesdropping| [Wavefront manipulation attack via programmable mmWave metasurfaces: from theory to experiments](https://dl.acm.org/doi/pdf/10.1145/3558482.3590182) | 
 | 2023 | Nature Electronics                       | Eavesdropping| [Metasurface-enabled smart wireless attacks at the physical layer](https://www.researchsquare.com/article/rs-1857836/latest.pdf) | 
 | 2025 | arXiv                                    | Spoofing     | [RIS-Aided Positioning Under Adverse Conditions: Interference from Unauthorized RIS](https://arxiv.org/pdf/2502.19928) | 
-| 2023 | NDSS 2023                                | Spoofing     | [Metawave: Attacking mmwave sensing with meta-material-enhanced tags](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f348_paper.pdf) |
+| 2023 | NDSS 2023                                | Spoofing     | [MetaWave: Attacking mmWave Sensing with Meta-material-enhanced Tags](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f348_paper.pdf) |
 | 2023 | SenSys '23                               | Spoofing     | [RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface](https://www.chenhuangxun.com/files/sensys23-ristealth.pdf)) | 
 | 2024 | CCS '24                                  | Spoofing     | [RISiren: Wireless Sensing System Attacks via Metasurface](https://dl.acm.org/doi/pdf/10.1145/3658644.3690186) |
 | 2025 | arXiv                                    | Spoofing     | [Sensing Safety Analysis for Vehicular Networks with Integrated Sensing and Communication (ISAC)](https://arxiv.org/pdf/2505.01688) |
@@ -87,6 +87,27 @@ This repository contains a collection of papers and resources on **security and 
 ### System-level Defenses
 
 ## RIS for Defense
+| Year | Publication                              | Method       | Paper                                                        |
+| ---- | ---------------------------------------- | ------------ | ------------------------------------------------------------ |
+| 2023 | Electronics                              | Optimization | [RIS-assisted robust beamforming for UAV anti-jamming and eavesdropping communications: A deep reinforcement learning approach](https://www.mdpi.com/2079-9292/12/21/4490) |
+| 2023 | IEEE OJ-COMS                             | Optimization | [Counteracting eavesdropper attacks through reconfigurable intelligent surfaces: A new threat model and secrecy rate optimization](https://ieeexplore.ieee.org/iel7/8782661/8901158/10143983.pdf) |
+| 2024 | GLOBECOM 2024                            | Optimization | [Online DRL-based Beam Selection for RIS-Aided Physical Layer Security: An Experimental Study](https://www.researchgate.net/profile/Abdulkadir-Celik/publication/385879881_Online_DRL-based_Beam_Selection_for_RIS-Aided_Physical_Layer_Security_An_Experimental_Study/links/6738bbb437496239b2c276e2/Online-DRL-based-Beam-Selection-for-RIS-Aided-Physical-Layer-Security-An-Experimental-Study.pdf) |
+| 2024 | IEEE Systems Journal                     | Optimization | [Self-Sustainable Active Reconfigurable Intelligent Surfaces for Antijamming in Wireless Communications](https://arxiv.org/pdf/2406.09447) |
+| 2025 | arXiv                                    | Optimization | [Optimizing Indoor RIS-Aided Physical-Layer Security: A Codebook-Generation Methodology and Measurement-Based Analysis](https://arxiv.org/pdf/2506.22082) |
+| 2023 | Entropy                                  | Optimization | [A communication anti-jamming scheme assisted by RIS with angular response](https://www.mdpi.com/1099-4300/25/12/1638) |
+| 2024 | Photonics                                | Optimization | [Reconfigurable Intelligent Surface-Aided Security Enhancement for Vehicle-to-Vehicle Visible Light Communications](https://search.proquest.com/openview/5e81221c0172c992adcdde1cc4b31b8a/1?pq-origsite=gscholar&cbl=2032352) | 
+| 2022 | IEEE S&P 2022                            | Introducing Randomness | [IRShield: A countermeasure against adversarial physical-layer wireless sensing](https://arxiv.org/pdf/2112.01967) | 
+| 2022 | MobiCom '22                              | Introducing Randomness | [Protego: securing wireless communication via programmable metasurface](https://search.proquest.com/openview/5281221c0172c992adcdde1cc4b31b8a/1?pq-origsite=gscholar&cbl=2032352) | 
+| 2023 | Applied Physics Letters                  | Introducing Randomness | [Physical-level secure wireless communication using random-signal-excited reprogrammable metasurface](https://pubs.aip.org/aip/apl/article/122/5/051704/2874729) |
+| 2025 | Nature Communications                    | Introducing Randomness | [Chaotic information metasurface for direct physical-layer secure communication](https://www.nature.com/articles/s41467-025-60725-1.pdf) |
+| 2024 | Optica                                   | Spoofing the Attacker  | [Audio misinformation encoding via an on-phone sub-terahertz metasurface](https://opg.optica.org/viewmedia.cfm?seq=0&uri=optica-11-8-1113) |
+| 2025 | IEEE S&P 2025                            | Spoofing the Attacker  | [Spoofing eavesdroppers with audio misinformation](https://ieeexplore.ieee.org/abstract/document/11023283/) |
+| 2024 | IEEE Wireless Communications Letters     | Spoofing the Attacker  | [Intelligent reflecting surface-aided radar spoofing](https://arxiv.org/pdf/2405.06951) |
+| 2025 | Nature Communications                    | Spoofing the Attacker  | [Anti-radar based on metasurface](https://www.nature.com/articles/s41467-025-62633-w.pdf) |
+| 2023 | IEEE Access                              | Attenuation  | [Mitigating inaudible ultrasound attacks on voice assistants with acoustic metamaterials](https://ieeexplore.ieee.org/iel7/6287639/6514899/10100683.pdf) |
+| 2023 | JASA                                     | Attenuation  | [3D printed acoustic metamaterial filters for the mitigation of inaudible ultrasound attacks on smart speakers](https://pubs.aip.org/asa/jasa/article-abstract/153/3_supplement/A197/2885933) |
+| 2023 | Physical Communication                   | Attenuation  | [Mitigating inaudible ultrasound attacks on voice assistants with acoustic metamaterials](https://ieeexplore.ieee.org/iel7/6287639/6514899/10100683.pdf) |
+| 2025 | MobiCom 2025                             | Attenuation  | [MetaGuardian: Enhancing Voice Assistant Security through Advanced Acoustic Metamaterials](https://arxiv.org/pdf/2508.09728) |
 
 # Tools
 
