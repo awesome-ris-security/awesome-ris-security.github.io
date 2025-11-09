@@ -5,7 +5,7 @@ This repository contains a collection of papers and resources on **security and 
 - [📃Survey](#survey)
   - [Application Focus](#application-focus)
   - [Security Focus](#security-focus)
-- [Tutorial & Technical Document](#tutorial--technical-document)
+  - [Tutorial & Technical Document](#tutorial--technical-document)
 - [⚔️Attacks](#attacks)
   - [Attacking RIS-assisted Systems](#attacking-ris-assisted-systems)
   - [RIS for Attack](#ris-for-attack)
@@ -39,7 +39,7 @@ This repository contains a collection of papers and resources on **security and 
 | 2024 | IEEE Communications Surveys & Tutorials  | [Ris-assisted physical layer security in emerging rf and optical wireless communication systems: A comprehensive survey](https://arxiv.org/pdf/2403.10412) | 
 | 2024 | IEEE Open Journal of Vehicular Technology| [A survey on reconfigurable intelligent surface for physical layer security of next-generation wireless communications](https://ieeexplore.ieee.org/iel7/8782711/8889399/10409564.pdf) | 
 
-# Tutorial & Technical Document
+## Tutorial & Technical Document
 | Year | Publication                    | Paper                                                        |
 | ---- | ------------------------------ | ------------------------------------------------------------ |
 | 2022 | IEEE Signal Processing Magazine| [Reconfigurable intelligent surfaces: A signal processing perspective with wireless applications](https://arxiv.org/pdf/2102.00742) | 
