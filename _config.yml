@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Awesome RIS Attacks and Defenses
 description: Papers and resources on RIS security & privacy
-markdown: kramdown
+markdown: GFM
