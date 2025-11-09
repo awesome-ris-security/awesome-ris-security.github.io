@@ -84,7 +84,20 @@ This repository contains a collection of papers and resources on **security and 
 
 ## Defending against RIS for attack
 ### Early Detection of Unauthorized RIS
+| Year | Publication                    | Paper                                                        |
+| ---- | ------------------------------ | ------------------------------------------------------------ |
+| 2023 | Optics Express                 | [Detection and mapping of specular surfaces using multibounce lidar returns](https://opg.optica.org/viewmedia.cfm?uri=oe-31-4-6370) |
+| 2025 | ICC 2025                       | [On the Detection of Non-Cooperative RISs: Scan B-Testing via Deep Support Vector Data Description](https://arxiv.org/pdf/2411.03237) |
+| 2025 | arXiv                          | [Analysis and Detection of RIS-based Spoofing in Integrated Sensing and Communication (ISAC)](https://arxiv.org/pdf/2508.18100) |
+| 2022 | IEEE Pervasive Computing       | [See no evil: Discovering covert surveillance devices using thermal imaging](https://ieeexplore.ieee.org/iel7/7756/10002256/09830124.pdf) |
+
 ### System-level Defenses
+| Year | Publication                    | Paper                                                        |
+| ---- | ------------------------------ | ------------------------------------------------------------ |
+| 2024 | IEEE SPAWC 2024                | [Benign and Malicious Reconfigurable Intelligent Surfaces in MISO Wiretap Channels](https://ieeexplore.ieee.org/abstract/document/10693994/) |
+| 2023 | IEEE Wireless Communications Letters | [A Countermeasure Against RIS Jamming Attack in Physical-Layer Key Generation](https://ieeexplore.ieee.org/abstract/document/10247269/) |
+| 2023 | IEEE OJ-COMS                   | [Counteracting eavesdropper attacks through reconfigurable intelligent surfaces: A new threat model and secrecy rate optimization](https://ieeexplore.ieee.org/iel7/8782661/8901158/10143983.pdf) |
+| 2025 | Drones                         | [Cooperative Jamming for RIS-Assisted UAV-WSN Against Aerial Malicious Eavesdropping](https://www.mdpi.com/2504-446X/9/6/431) |
 
 ## RIS for Defense
 | Year | Publication                              | Method       | Paper                                                        |
@@ -106,7 +119,6 @@ This repository contains a collection of papers and resources on **security and 
 | 2025 | Nature Communications                    | Spoofing the Attacker  | [Anti-radar based on metasurface](https://www.nature.com/articles/s41467-025-62633-w.pdf) |
 | 2023 | IEEE Access                              | Attenuation  | [Mitigating inaudible ultrasound attacks on voice assistants with acoustic metamaterials](https://ieeexplore.ieee.org/iel7/6287639/6514899/10100683.pdf) |
 | 2023 | JASA                                     | Attenuation  | [3D printed acoustic metamaterial filters for the mitigation of inaudible ultrasound attacks on smart speakers](https://pubs.aip.org/asa/jasa/article-abstract/153/3_supplement/A197/2885933) |
-| 2023 | Physical Communication                   | Attenuation  | [Mitigating inaudible ultrasound attacks on voice assistants with acoustic metamaterials](https://ieeexplore.ieee.org/iel7/6287639/6514899/10100683.pdf) |
 | 2025 | MobiCom 2025                             | Attenuation  | [MetaGuardian: Enhancing Voice Assistant Security through Advanced Acoustic Metamaterials](https://arxiv.org/pdf/2508.09728) |
 
 # Tools
