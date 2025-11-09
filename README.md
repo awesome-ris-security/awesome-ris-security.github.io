@@ -2,20 +2,20 @@
 This repository contains a collection of papers and resources on **security and privacy** issues related to **reconfigurable intellegent surface (RIS)**.
 
 # Table of Contents
-- [Survey](#survey)
+- [📃Survey](#survey)
   - [Application Focus](#application-focus)
   - [Security Focus](#security-focus)
 - [Tutorial & Technical Document](#tutorial--technical-document)
-- [Attacks](#attacks)
+- [⚔️Attacks](#attacks)
   - [Attacking RIS-assisted Systems](#attacking-ris-assisted-systems)
   - [RIS for Attack](#ris-for-attack)
-- [Defenses](#defenses)
+- [🛡️Defenses](#defenses)
   - [Defending attacks on RIS-assisted systems](#defending-attacks-on-ris-assisted-systems)
   - [Defending against RIS for attack](#defending-against-ris-for-attack)
     - [Early Detection of Unauthorized RIS](#early-detection-of-unauthorized-ris)
     - [System-level Defenses](#system-level-defenses)
   - [RIS for Defense](#ris-for-defense)
-- [Tools](#tools)
+- [🛠️Tools](#tools)
 
 # 📃Survey
 ## Application Focus
