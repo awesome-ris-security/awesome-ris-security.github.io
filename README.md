@@ -2,6 +2,20 @@
 This repository contains a collection of papers and resources on **security and privacy** issues related to **reconfigurable intellegent surface (RIS)**.
 
 # Table of Contents
+- [Survey](#survey)
+  - [Application Focus](#application-focus)
+  - [Security Focus](#security-focus)
+- [Tutorial & Technical Document](#tutorial--technical-document)
+- [Attacks](#attacks)
+  - [Attacking RIS-assisted Systems](#attacking-ris-assisted-systems)
+  - [RIS for Attack](#ris-for-attack)
+- [Defenses](#defenses)
+  - [Defending attacks on RIS-assisted systems](#defending-attacks-on-ris-assisted-systems)
+  - [Defending against RIS for attack](#defending-against-ris-for-attack)
+    - [Early Detection of Unauthorized RIS](#early-detection-of-unauthorized-ris)
+    - [System-level Defenses](#system-level-defenses)
+  - [RIS for Defense](#ris-for-defense)
+- [Tools](#tools)
 
 # 📃Survey
 ## Application Focus
@@ -31,7 +45,7 @@ This repository contains a collection of papers and resources on **security and 
 | 2022 | IEEE Signal Processing Magazine| [Reconfigurable intelligent surfaces: A signal processing perspective with wireless applications](https://arxiv.org/pdf/2102.00742) | 
 | 2023 | ETSI                           | [Reconfigurable Intelligent Surfaces (RIS); Communication Models, Channel Models, Channel Estimation and Evaluation Methodology](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/001/01.01.01_60/gr_RIS001v010101p.pdf) |
 
-# ⚔Attacks
+# ⚔️Attacks
 ## Attacking RIS-assisted Systems
 | Year | Publication                              | Attack Type  | Paper                                                        |
 | ---- | ---------------------------------------- | ------------ | ------------------------------------------------------------ |
@@ -123,5 +137,11 @@ This repository contains a collection of papers and resources on **security and 
 | 2023 | JASA                                     | Attenuation  | [3D printed acoustic metamaterial filters for the mitigation of inaudible ultrasound attacks on smart speakers](https://pubs.aip.org/asa/jasa/article-abstract/153/3_supplement/A197/2885933) |
 | 2025 | MobiCom 2025                             | Attenuation  | [MetaGuardian: Enhancing Voice Assistant Security through Advanced Acoustic Metamaterials](https://arxiv.org/pdf/2508.09728) |
 
-# Tools
-
+# 🛠️Tools
+| Year | Publication / Organization            | Resources                                                    |
+| ---- | ------------------------------------- | ------------------------------------------------------------ |
+| 2024 | Mathworks                             | [Introduction to Reconfigurable Intelligent Surfaces (RIS)](https://www.mathworks.com/help/phased/ug/introduction-to-reconfigurable-intelligent-surfaces.html) | 
+| 2024 | Mathworks                             | [Radar Sensing with Reconfigurable Intelligent Surfaces (RIS)](https://www.mathworks.com/help/phased/ug/reconfigurable-intelligent-surfaces-ris-aided-sensing.html) |
+| 2024 | Mathworks                             | [Model Reconfigurable Intelligent Surfaces with CDL Channels](https://www.mathworks.com/help/5g/ug/model-reconfigurable-intelligent-surfaces-with-cdl-channels.html) |
+| 2023 | ISAP 2023                             | [Open Source RIS](https://github.com/mheinri/OpenSourceRIS) |
+| 2025 | / | [RIS-Codes-Collection](https://github.com/ken0225/RIS-Codes-Collection) |
