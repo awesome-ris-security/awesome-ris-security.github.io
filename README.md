@@ -54,21 +54,25 @@ This repository contains a collection of papers and resources on **security and 
 | 2025 | NDSS 2025                                | Jamming       | [Spatial-domain wireless jamming with reconfigurable intelligent surfaces](https://www.ndss-symposium.org/wp-content/uploads/2025-440-paper.pdf) | |
 | 2022 | HotMobile '22                            | Eavesdropping | [Malicious mmWave reconfigurable surface: Eavesdropping through harmonic steering](https://dl.acm.org/doi/pdf/10.1145/3508396.3512879) | |
 | 2023 | WiSec '23                                | Eavesdropping | [Wavefront manipulation attack via programmable mmWave metasurfaces: from theory to experiments](https://dl.acm.org/doi/pdf/10.1145/3558482.3590182) | |
+| 2024 | IEEE S&P 2024                            | Eavesdropping | [MetaFly: Wireless Backhaul Interception via Aerial Wavefront Manipulation](https://bpb-us-e1.wpmucdn.com/blogs.rice.edu/dist/d/12661/files/2024/02/MetaFly-IEEE-SP-2024-59806a75f36d9d9e.pdf) | |
 | 2025 | arXiv                                    | Spoofing      | [RIS-Aided Positioning Under Adverse Conditions: Interference from Unauthorized RIS](https://arxiv.org/pdf/2502.19928) | |
 | 2025 | IEEE CSCN 2025                           | Spoofing      | [MALRIS: Malicious Hardware in RIS-Assisted Wireless Communications](https://arxiv.org/pdf/2508.06340) | |
 | 2024 | Remote Sensing                           | Spoofing & Jamming | [A broadband information metasurface-assisted target jamming system for synthetic aperture radar](https://www.mdpi.com/2072-4292/16/9/1499) | |
 | 2022 | IEEE ISIT 2022                           | Denial-of-Service | [Controller manipulation attack on reconfigurable intelligent surface aided wireless communication](https://ieeexplore.ieee.org/abstract/document/9834681) | |
 
 ## RIS for Attack
-| Year | Publication                              | Attack Type  | Paper                                                        | Code💻 / Demo🎥 |
-| ---- | ---------------------------------------- | ------------ | ------------------------------------------------------------ | --------------- |
-| 2023 | IEEE TWC                                 | Jamming   | [Disco intelligent reflecting surfaces: Active channel aging for fully-passive jamming attack](https://arxiv.org/pdf/2302.00415) | |
+| Year | Publication                              | Attack Type   | Paper                                                        | Code💻 / Demo🎥 |
+| ---- | ---------------------------------------- | ------------- | ------------------------------------------------------------ | --------------- |
+| 2023 | IEEE TWC                                 | Jamming       | [Disco intelligent reflecting surfaces: Active channel aging for fully-passive jamming attack](https://arxiv.org/pdf/2302.00415) | |
 | 2025 | NDSS 2025                                | Jamming       | [Spatial-domain wireless jamming with reconfigurable intelligent surfaces](https://www.ndss-symposium.org/wp-content/uploads/2025-440-paper.pdf) | |
 | 2020 | IEEE TWC                                 | Eavesdropping | [Intelligent reflecting surface aided pilot contamination attack and its countermeasure](https://arxiv.org/pdf/2009.08512) | |
 | 2022 | WiSec '22                                | Eavesdropping | [Metasurface-in-the-Middle Attack: From Theory to Experiment](https://par.nsf.gov/servlets/purl/10338626) | [🎥](https://drive.google.com/file/d/1hu5ivAArYmeul0-GmbCC0SM9leYhDIeJ/view) |
+| 2023 | IEEE CNS 2023                            | Eavesdropping | [RMDM: Using Random Meta-Atoms to Send Directional Misinformation to Eavesdroppers](https://networks.blogs.rice.edu/files/2023/09/RMDM-CNS.pdf) | |
 | 2022 | HotMobile '22                            | Eavesdropping | [Malicious mmWave reconfigurable surface: Eavesdropping through harmonic steering](https://dl.acm.org/doi/pdf/10.1145/3508396.3512879) | |
 | 2023 | WiSec '23                                | Eavesdropping | [Wavefront manipulation attack via programmable mmWave metasurfaces: from theory to experiments](https://dl.acm.org/doi/pdf/10.1145/3558482.3590182) | |
 | 2023 | Nature Electronics                       | Eavesdropping | [Metasurface-enabled smart wireless attacks at the physical layer](https://www.researchsquare.com/article/rs-1857836/latest.pdf) | |
+| 2023 | HotMobile '23                            | Eavesdropping | [Remotely Positioned MetaSurface-Drone Attack](https://dl.acm.org/doi/pdf/10.1145/3572864.3580343) | |
+| 2025 | GetMobile '25                            | Eavesdropping | [MetaFly: Aerial "MetaSurface-in-The-Middle" Attacks on Wireless Backhaul Links](https://unlab.tech/wp-content/uploads/2025/01/3714983.3714985.pdf) | |
 | 2025 | arXiv                                    | Spoofing      | [RIS-Aided Positioning Under Adverse Conditions: Interference from Unauthorized RIS](https://arxiv.org/pdf/2502.19928) | 
 | 2023 | IEEE S&P 2023                            | Spoofing      | [mmSpoof: Spoofing Attacks on Automotive FMCW Radars using Millimeter-wave Reflect Array](https://wcsng.ucsd.edu/files/mmspoof.pdf) | [🎥](https://wcsng.ucsd.edu/mmspoof/) |
 | 2023 | NDSS 2023                                | Spoofing      | [MetaWave: Attacking mmWave Sensing with Meta-material-enhanced Tags](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f348_paper.pdf) | |
@@ -133,6 +137,7 @@ This repository contains a collection of papers and resources on **security and 
 | 2024 | Optica                                   | Spoofing the Attacker  | [Audio misinformation encoding via an on-phone sub-terahertz metasurface](https://opg.optica.org/viewmedia.cfm?seq=0&uri=optica-11-8-1113) | |
 | 2025 | IEEE S&P 2025                            | Spoofing the Attacker  | [Spoofing eavesdroppers with audio misinformation](https://ieeexplore.ieee.org/abstract/document/11023283/) | [🎥](https://sites.google.com/view/zhambyl-shaikhanov/spoofing-eve?authuser=0) |
 | 2024 | IEEE Wireless Communications Letters     | Spoofing the Attacker  | [Intelligent reflecting surface-aided radar spoofing](https://arxiv.org/pdf/2405.06951) | |
+| 2025 | IEEE CNS 2025                            | Spoofing the Attacker  | [MetaHeart: Spoofing Vibrational Biometrics via Dynamic Metasurfaces](https://networks.rice.edu/files/2025/08/MetaHeart.pdf) | |
 | 2025 | Nature Communications                    | Spoofing the Attacker  | [Anti-radar based on metasurface](https://www.nature.com/articles/s41467-025-62633-w.pdf) | [🎥](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-025-62633-w/MediaObjects/41467_2025_62633_MOESM3_ESM.mp4) |
 | 2023 | IEEE Access                              | Attenuation  | [Mitigating inaudible ultrasound attacks on voice assistants with acoustic metamaterials](https://ieeexplore.ieee.org/iel7/6287639/6514899/10100683.pdf) | |
 | 2023 | JASA                                     | Attenuation  | [3D printed acoustic metamaterial filters for the mitigation of inaudible ultrasound attacks on smart speakers](https://pubs.aip.org/asa/jasa/article-abstract/153/3_supplement/A197/2885933) | |
