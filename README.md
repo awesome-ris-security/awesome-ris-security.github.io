@@ -72,7 +72,7 @@ This repository contains a collection of papers and resources on **security and 
 | 2023 | WiSec '23                                | Eavesdropping | [Wavefront manipulation attack via programmable mmWave metasurfaces: from theory to experiments](https://dl.acm.org/doi/pdf/10.1145/3558482.3590182) | |
 | 2023 | Nature Electronics                       | Eavesdropping | [Metasurface-enabled smart wireless attacks at the physical layer](https://www.researchsquare.com/article/rs-1857836/latest.pdf) | |
 | 2023 | HotMobile '23                            | Eavesdropping | [Remotely Positioned MetaSurface-Drone Attack](https://dl.acm.org/doi/pdf/10.1145/3572864.3580343) | |
-| 2025 | GetMobile '25                            | Eavesdropping | [MetaFly: Aerial "MetaSurface-in-The-Middle" Attacks on Wireless Backhaul Links](https://unlab.tech/wp-content/uploads/2025/01/3714983.3714985.pdf) | |
+| 2025 | GetMobile                                | Eavesdropping | [MetaFly: Aerial "MetaSurface-in-The-Middle" Attacks on Wireless Backhaul Links](https://unlab.tech/wp-content/uploads/2025/01/3714983.3714985.pdf) | |
 | 2025 | arXiv                                    | Spoofing      | [RIS-Aided Positioning Under Adverse Conditions: Interference from Unauthorized RIS](https://arxiv.org/pdf/2502.19928) | 
 | 2023 | IEEE S&P 2023                            | Spoofing      | [mmSpoof: Spoofing Attacks on Automotive FMCW Radars using Millimeter-wave Reflect Array](https://wcsng.ucsd.edu/files/mmspoof.pdf) | [🎥](https://wcsng.ucsd.edu/mmspoof/) |
 | 2023 | NDSS 2023                                | Spoofing      | [MetaWave: Attacking mmWave Sensing with Meta-material-enhanced Tags](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f348_paper.pdf) | |
