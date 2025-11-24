@@ -149,5 +149,7 @@ This repository contains a collection of papers and resources on **security and 
 | 2024 | Mathworks                             | [Introduction to Reconfigurable Intelligent Surfaces (RIS)](https://www.mathworks.com/help/phased/ug/introduction-to-reconfigurable-intelligent-surfaces.html) | 
 | 2024 | Mathworks                             | [Radar Sensing with Reconfigurable Intelligent Surfaces (RIS)](https://www.mathworks.com/help/phased/ug/reconfigurable-intelligent-surfaces-ris-aided-sensing.html) |
 | 2024 | Mathworks                             | [Model Reconfigurable Intelligent Surfaces with CDL Channels](https://www.mathworks.com/help/5g/ug/model-reconfigurable-intelligent-surfaces-with-cdl-channels.html) |
+| 2019 | ASU Wireless Intelligence Lab         | [DeepMIMO](https://deepmimo.net) |
+| 2022 | NVIDIA                                | [Sionna](https://nvlabs.github.io/sionna/index.html) |
 | 2023 | ISAP 2023                             | [Open Source RIS](https://github.com/mheinri/OpenSourceRIS) |
 | 2025 | / | [RIS-Codes-Collection](https://github.com/ken0225/RIS-Codes-Collection) |
