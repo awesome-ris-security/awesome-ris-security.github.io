@@ -29,7 +29,7 @@ This repository contains a collection of papers and resources on **security and 
 | 2023 | IEEE Wireless Communications            | [Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://arxiv.org/pdf/2206.08518) |
 | 2022 | Proceedings of the IEEE                 | [Toward ubiquitous sensing and localization with reconfigurable intelligent surfaces](https://ieeexplore.ieee.org/ielaam/5/9896612/9775078-aam.pdf) | 
 | 2025 | IEEE Communications Surveys & Tutorials | [The emergence of multi-functional and hybrid reconfigurable intelligent surfaces for integrated sensing and communications-a survey](https://ieeexplore.ieee.org/iel8/9739/5451756/10833623.pdf) | 
-| 2025 |                                         | [A Survey on Reconfigurable Intelligent Surfaces in Practical Systems: Security and Privacy Perspectives](https://arxiv.org/pdf/2512.15754) |
+| 2025 | arXiv                                   | [A Survey on Reconfigurable Intelligent Surfaces in Practical Systems: Security and Privacy Perspectives](https://arxiv.org/pdf/2512.15754) |
 
 ## Security Focus
 | Year | Publication                               | Paper                                                        |
