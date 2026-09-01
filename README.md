@@ -5,7 +5,7 @@ This repository contains a collection of papers and resources on **security and 
 - [📃Survey](#survey)
   - [Application Focus](#application-focus)
   - [Security Focus](#security-focus)
-  - [Tutorial & Technical Document](#tutorial--technical-document)
+  - [Tutorials, Standards & Technical Reports](#tutorials-standards--technical-reports)
 - [⚔️Attacks](#attacks)
   - [Attacks on RIS Systems](#attacks-on-ris-systems)
   - [Attacks Leveraging the RIS](#attacks-leveraging-the-ris)
@@ -41,11 +41,43 @@ This repository contains a collection of papers and resources on **security and 
 | 2024 | IEEE Communications Surveys & Tutorials   | [Ris-assisted physical layer security in emerging rf and optical wireless communication systems: A comprehensive survey](https://arxiv.org/pdf/2403.10412) | 
 | 2024 | IEEE Open Journal of Vehicular Technology | [A survey on reconfigurable intelligent surface for physical layer security of next-generation wireless communications](https://ieeexplore.ieee.org/iel7/8782711/8889399/10409564.pdf) | 
 
-## Tutorial & Technical Document
-| Year | Publication                     | Paper                                                        |
-| ---- | ------------------------------  | ------------------------------------------------------------ |
-| 2022 | IEEE Signal Processing Magazine | [Reconfigurable intelligent surfaces: A signal processing perspective with wireless applications](https://arxiv.org/pdf/2102.00742) | 
-| 2023 | ETSI                            | [Reconfigurable Intelligent Surfaces (RIS); Communication Models, Channel Models, Channel Estimation and Evaluation Methodology](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/001/01.01.01_60/gr_RIS001v010101p.pdf) |
+## Tutorials, Standards & Technical Reports
+
+### Tutorial
+| Year | Publication | Document |
+| ---- | ----------- | -------- |
+| 2022 | IEEE Signal Processing Magazine | [Reconfigurable Intelligent Surfaces: A Signal Processing Perspective with Wireless Applications](https://arxiv.org/pdf/2102.00742) |
+
+### ETSI ISG RIS Deliverables
+| Year | Organization | Document |
+| ---- | ------------ | -------- |
+| 2025 | ETSI | [GR RIS 001 V1.2.1: Use Cases, Deployment Scenarios and Requirements](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/001/01.02.01_60/gr_ris001v010201p.pdf) |
+| 2025 | ETSI | [GR RIS 002 V1.2.1: Technological Challenges, Architecture and Impact on Standardization](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/002/01.02.01_60/gr_RIS002v010201p.pdf) |
+| 2025 | ETSI | [GR RIS 003 V1.2.1: Communication Models, Channel Models, Channel Estimation and Evaluation Methodology](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/003/01.02.01_60/gr_RIS003v010201p.pdf) |
+| 2025 | ETSI | [GR RIS 004 V1.1.1: Implementation and Practical Considerations](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/004/01.01.01_60/gr_RIS004v010101p.pdf) |
+| 2025 | ETSI | [GR RIS 005 V1.1.1: Diversity and Multiplexing of RIS-Aided Communications](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/005/01.01.01_60/gr_ris005v010101p.pdf) |
+| 2025 | ETSI | [GR RIS 006 V1.1.1: Multi-Functional RIS—Modelling, Optimization, and Operation](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/006/01.01.01_60/gr_RIS006v010101p.pdf) |
+| 2026 | ETSI | [GR RIS 007 V1.1.1: Near-Field Channel Modelling and Mechanics](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/007/01.01.01_60/gr_RIS007v010101p.pdf) |
+| 2026 | ETSI | [GS RIS 008 V1.1.1: Standardized Testing for Reconfigurable Intelligent Surfaces](https://www.etsi.org/deliver/etsi_gs/RIS/001_099/008/01.01.01_60/gs_RIS008v010101p.pdf) |
+
+### Supporting 3GPP and ITU Documents
+These documents provide general channel, security, and IMT-2030 baselines; they are not dedicated 3GPP RIS specifications.
+
+| Year | Organization | Document |
+| ---- | ------------ | -------- |
+| Continuously updated | 3GPP | [TR 38.901: Study on Channel Model for Frequencies from 0.5 to 100 GHz](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3173) |
+| Continuously updated | 3GPP | [TS 33.501: Security Architecture and Procedures for the 5G System](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3169) |
+| 2022 | ITU-R | [Report M.2516-0: Future Technology Trends of Terrestrial IMT Systems Towards 2030 and Beyond](https://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.2516-2022-PDF-E.pdf) |
+| 2023 | ITU-R | [Recommendation M.2160-0: Framework and Overall Objectives of IMT for 2030 and Beyond](https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.2160-0-202311-I%21%21PDF-E.pdf) |
+
+### Industry White Papers
+| Year | Organization | Document |
+| ---- | ------------ | -------- |
+| 2023 | RIS TECH Alliance (RISTA) | [Reconfigurable Intelligent Surface Technology White Paper](https://www.risalliance.com/en/riswp2023_en/) |
+| 2025 | FuTURE Forum / RISTA | [White Paper on Channel Modeling and Simulation for Reconfigurable Intelligent Surface](https://www.risalliance.com/en/channel-modeling-and-simulation-for-reconfigurable-intelligent-surface/) |
+| 2025 | FuTURE Forum / RISTA | [White Paper on Prototyping of Reconfigurable Intelligent Surface](https://www.risalliance.com/en/white-paper-on-prototyping-of-reconfigurable-intelligent-surface/) |
+| 2025 | FuTURE Forum / RISTA | [White Paper on Potential Standardization Work for Reconfigurable Intelligent Surface](https://www.risalliance.com/en/potential-standardization-work-for-reconfigurable-intelligent-surface-white-paper/) |
+| 2025 | FuTURE Forum / RISTA | [6G Near-Field Technologies White Paper 2.0](https://www.risalliance.com/en/6g-near-field-technologies-white-paper-2-0-2/) |
 
 # ⚔️Attacks
 The attack taxonomy follows the adversary's position relative to the network operator's trust domain. **Attacks on RIS systems** exploit or compromise a legitimate RIS deployment, whereas **attacks leveraging the RIS** weaponize an unauthorized RIS or a fully compromised legitimate RIS against the broader wireless system. A paper may appear in both categories when it explicitly supports both deployment models.
