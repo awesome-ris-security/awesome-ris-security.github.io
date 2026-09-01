@@ -81,7 +81,7 @@ This repository contains a collection of papers and resources on **security and 
 | 2023 | SenSys '23                               | Spoofing      | [RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface](https://www.chenhuangxun.com/files/sensys23-ristealth.pdf) | |
 | 2024 | CCS '24                                  | Spoofing      | [RISiren: Wireless Sensing System Attacks via Metasurface](https://dl.acm.org/doi/pdf/10.1145/3658644.3690186) | [✅](https://www.youtube.com/watch?v=yY80IhLvz3Q) |
 | 2025 | arXiv                                    | Spoofing      | [Sensing Safety Analysis for Vehicular Networks with Integrated Sensing and Communication (ISAC)](https://arxiv.org/pdf/2505.01688) | |
-| 2026 | The Web Conference (WWW)                 | Eavesdropping | [SuperEar: Eavesdropping on Mobile Voice Calls via Stealthy Acoustic Metamaterials](https://doi.org/10.1145/3774904.3792646) | [💻](https://github.com/helo0507/Super-Ear) |
+| 2026 | The Web Conference (WWW)                 | Eavesdropping | [SuperEar: Eavesdropping on Mobile Voice Calls via Stealthy Acoustic Metamaterials](https://dl.acm.org/doi/abs/10.1145/3774904.3792646) | [💻](https://github.com/helo0507/Super-Ear) |
 | 2025 | IEEE TIFS                                | Spoofing      | [A Portable and Stealthy Inaudible Voice Attack Based on Acoustic Metamaterials](https://doi.org/10.1109/TIFS.2025.3597233) | |
 
 # 🛡️Defenses
