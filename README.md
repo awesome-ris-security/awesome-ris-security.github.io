@@ -51,9 +51,9 @@ This repository contains a collection of papers and resources on **security and 
 ### ETSI ISG RIS Deliverables
 | Year | Organization | Document |
 | ---- | ------------ | -------- |
-| 2025 | ETSI | [GR RIS 001 V1.2.1: Use Cases, Deployment Scenarios and Requirements](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/001/01.02.01_60/gr_ris001v010201p.pdf) |
-| 2025 | ETSI | [GR RIS 002 V1.2.1: Technological Challenges, Architecture and Impact on Standardization](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/002/01.02.01_60/gr_RIS002v010201p.pdf) |
-| 2025 | ETSI | [GR RIS 003 V1.2.1: Communication Models, Channel Models, Channel Estimation and Evaluation Methodology](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/003/01.02.01_60/gr_RIS003v010201p.pdf) |
+| 2023 | ETSI | [GR RIS 001 V1.2.1: Use Cases, Deployment Scenarios and Requirements](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/001/01.02.01_60/gr_ris001v010201p.pdf) |
+| 2023 | ETSI | [GR RIS 002 V1.2.1: Technological Challenges, Architecture and Impact on Standardization](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/002/01.02.01_60/gr_RIS002v010201p.pdf) |
+| 2023 | ETSI | [GR RIS 003 V1.2.1: Communication Models, Channel Models, Channel Estimation and Evaluation Methodology](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/003/01.02.01_60/gr_RIS003v010201p.pdf) |
 | 2025 | ETSI | [GR RIS 004 V1.1.1: Implementation and Practical Considerations](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/004/01.01.01_60/gr_RIS004v010101p.pdf) |
 | 2025 | ETSI | [GR RIS 005 V1.1.1: Diversity and Multiplexing of RIS-Aided Communications](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/005/01.01.01_60/gr_ris005v010101p.pdf) |
 | 2025 | ETSI | [GR RIS 006 V1.1.1: Multi-Functional RIS—Modelling, Optimization, and Operation](https://www.etsi.org/deliver/etsi_gr/RIS/001_099/006/01.01.01_60/gr_RIS006v010101p.pdf) |
